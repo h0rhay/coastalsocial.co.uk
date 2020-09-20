@@ -1,0 +1,11 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 96 96" xml:space="preserve">
+  <style>
+    .st3{fill-rule:evenodd;clip-rule:evenodd;fill:#0C67B0}
+  </style>
+  <path fill="#0C67B0" d="M-152.97-146.83h47.22v53.6h-47.22z"/>
+  <path fill="#F9B236" d="M-138.93-114.29h47.22v53.6h-47.22z"/>
+  <path fill="#44B2E8" d="M-104.47-91.31h47.22v53.6h-47.22z"/>
+  <path class="st3" d="M48 0C21.49 0 0 21.49 0 48s21.49 48 48 48 48-21.49 48-48S74.51 0 48 0zm30.4 69.4h-62v-44h62v44z"/>
+  <path class="st3" d="M72.06 29.4H22.75L47.4 49.81z"/>
+  <path class="st3" d="M74.4 32.65L47.4 55l-27-22.35V65.4h54z"/>
+</svg>
