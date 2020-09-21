@@ -8,8 +8,19 @@ export default function Link({ children, to, activeClassName, partiallyActive, .
     // Tailor the following test to your environment.
     // This example assumes that any internal link (intended for Gatsby)
     // will start with exactly one slash, and that anything else is external.
-    const internal = /^\/(?!\/)/.test(to);
+    // const mailTo = /\/(mailto:)/.test(to)
+    const mailTo = to.includes('/mailto:')
+    const internal = /^\/(?!\/)/.test(to)
 
+    // Strip url gubbins if link is a mailto:
+    if (mailTo) {
+        to = to.substring(to.lastIndexOf("/") + 1)
+        return (
+            <a href={to} {...other}>
+                {children}
+            </a>
+        )
+    }
     // Use Gatsby Link for internal links, and <a> for others
     if (internal) {
         return (

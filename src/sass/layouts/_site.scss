@@ -19,6 +19,10 @@
     margin-right: calc(50% - 50vw);
  }
 
+ .m-by {
+	 display:none;
+ }
+
  .rosie {
 	 @media (max-width: 767px) {
 		 max-width:200px;
