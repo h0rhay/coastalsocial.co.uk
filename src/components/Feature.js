@@ -19,6 +19,7 @@ export default class Feature extends React.Component {
 				let is_vert = false;
 				let bg_color = _.get(feature, 'bg_color', null);
 				let isFW = _.get(feature, 'isFW', null)
+				let classToAdd = _.get(section, 'classToAdd', null)
         if ((((_.get(feature, 'title', null) || _.get(feature, 'subtitle', null)) || _.get(feature, 'content', null)) || _.get(feature, 'actions', null))) {
              has_text = true;
         }
@@ -45,7 +46,7 @@ export default class Feature extends React.Component {
 												{_.get(feature, 'video_embed_html', null) ? (
 													htmlToReact(_.get(feature, 'video_embed_html', null))
 												) : 
-													<img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'title', null)} className={classNames('rosie', {'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
+													<img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'title', null)} className={classNames({'rosie': classToAdd === 'rosie'}, {'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
 												}
 											</div>
 											)}

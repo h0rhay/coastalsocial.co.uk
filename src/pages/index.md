@@ -32,6 +32,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
+    classToAdd: 'rosie'
   - type: features_section
     title: What can I do for your business?
     subtitle: SERVICES
