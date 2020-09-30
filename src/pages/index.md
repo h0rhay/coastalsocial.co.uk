@@ -104,8 +104,8 @@ sections:
           ### Get in touch
           
           Drop us an email and we'll call you back to arrange your free consultation.
-
-          <mailto:rosie@coastalsocial.co.uk?subject=New href='mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry' class='btn btn-primary'>Send us an email 🚀</mailto:rosie@coastalsocial.co.uk?subject=New>
+          <p>&nbsp;</p>
+          <a class='btn btn--primary' href='mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry' class='btn btn-primary'>Send us an email 🚀</a>
           
           <!--<button class='btn btn-primary'><div class="timify-button" data-account-id="5f674fe70fa9e411e1f80185">Book appointment online</div></button>-->
         content_align: left

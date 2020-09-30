@@ -61,11 +61,12 @@ sections:
           * Lorem Ipsum more bullets neded
         content_align: left
         actions:
-          - label: Help me Set things up
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - FB setup
+          - label: Help me plan an effective campaign
+            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Strategy
             style: primary
         actions_align: center
         actions_width: full-width
+        itemClassToAdd: singleItem
     grid_cols: one
     grid_gap_horiz: small
     grid_gap_vert: small
@@ -74,7 +75,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary-accent
-    classToAdd: dark-text
   - type: grid_section
     title: Strategy Review
     subtitle: 

@@ -29,6 +29,12 @@ module.exports = {
                 pageContextProperty: `menus`,
             }
         },
-        'gatsby-plugin-mailgo'
+        'gatsby-plugin-mailgo',
+        {
+            resolve: `gatsby-plugin-facebook-pixel`,
+            options: {
+                pixelId: '2734934570117112',
+            }
+        }
     ]
 };

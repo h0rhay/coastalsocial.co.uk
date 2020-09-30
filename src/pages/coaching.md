@@ -85,7 +85,7 @@ sections:
         content_align: left
         actions:
           - label: Help me Set things up
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - FB setup
+            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Power Hour
             style: primary
         actions_align: center
         actions_width: full-width
@@ -104,8 +104,8 @@ sections:
 
         content_align: left
         actions:
-          - label: Book a management call
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Full Management
+          - label: Book a coaching call
+            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Coaching package
             style: primary
         actions_align: center
         actions_width: full-width
