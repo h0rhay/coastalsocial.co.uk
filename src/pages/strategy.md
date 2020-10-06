@@ -58,7 +58,7 @@ sections:
 
           * Get everything setup correctly
           * Have a plan to build from
-          * Lorem Ipsum more bullets neded
+          * Find out what works for your business
         content_align: left
         actions:
           - label: Help me plan an effective campaign
