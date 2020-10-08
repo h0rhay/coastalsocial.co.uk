@@ -37,7 +37,6 @@ export default class Feature extends React.Component {
         }
         return (
             <React.Fragment>
-							{console.log(bg_color)}
                 <div className={classNames('feature', {'maxw-medium': is_vert, 'mx-auto': is_vert, 'py-0': padding_y === 'small', 'py-1': padding_y !== 'small', 'py-sm-3': padding_y === 'large'}, {'primary': (bg_color === 'primary')}, {'secondary': (bg_color === 'secondary')}, {'secondary-accent': (bg_color === 'secondary-accent')}, {'tertiary-accent': (bg_color === 'tertiary-accent')}, {'isFW' : isFW})}>
 									<div className={classNames({'container': isFW})}>
 										<div className="item__content grid items-center">

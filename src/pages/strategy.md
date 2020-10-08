@@ -56,9 +56,13 @@ sections:
 
           One-off fee
 
+          * Consultation to establish goals & objectives
+          * Establish best social media platform for you
+          * Research audiences and competitors
+          * Plan campaign for platform of choice
           * Get everything setup correctly
-          * Have a plan to build from
-          * Find out what works for your business
+          * Content creation
+          * Insight and reporting so you can find out whats working
         content_align: left
         actions:
           - label: Help me plan an effective campaign

@@ -46,7 +46,7 @@ sections:
           
           - Campaign Strategy
 
-          - Campaign Set Up 
+          - Campaign & content creation & set up 
 
         image: images/steps.jpg
         media_position: left
@@ -84,7 +84,11 @@ sections:
 
           One-off fee
 
-          * Get everything setup correctly
+          * Initial consultation exploring objectives
+          * Set up Ads manager properly
+          * Ensure Facebook Pixel is present & active
+          * Audience research, Audience building
+          * Advise on content & campaign goals
           * Have a plan to build from
         content_align: left
         actions:
@@ -103,9 +107,12 @@ sections:
 
           _From_ £750 per month
 
-          * Price exclusive of ad spend. 
+          * Price excluding ad spend. 
           * I recommend __minimum__ spend of £20 per day to test 2 audiences.
-
+          * Campaign set up
+          * Content creation
+          * Management & monitoring of campaign health
+          * Feedback & reporting
         content_align: left
         actions:
           - label: Book a management call
@@ -123,11 +130,11 @@ sections:
 
           One-off fee
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          * The whys: What social media can do for your business
+          * Establish personas & targets
+          * Creating content.. how to do it.. what to post
+          * Scheduling, monitoring & troubleshooting
+          * Measuring Success
         content_align: left
         actions:
           - label: Book a strategy call
@@ -167,7 +174,7 @@ sections:
     classToAdd: fwReview
   - type: cta_section
     title: To get started <br/>making the most of Facebook Ads
-    content: Book a free consultation call, and I can give you some tips & advice, so we can make a plan thats right for you.
+    content: Book a free consultation call, where I can give you tips & advice so we can make a plan thats right for you.
     actions:
       - label: Send us an email
         url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry

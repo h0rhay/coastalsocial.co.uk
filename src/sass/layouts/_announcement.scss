@@ -3,7 +3,11 @@
  */
 .announcement-bar {
 	background: $color-anncmnt-bg;
-	position: relative;
+	position: absolute;
+	right: 0;
+	bottom: 10rem;
+	width: 24rem;
+	z-index: 99;
 }
 
 .announcement-bar__copy {

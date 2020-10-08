@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Coastal Social
-    subtitle: Social media consultancy specialising in Facebook advertising to help your business have its day in the sun
+    subtitle: Social media consultancy focusing on Facebook advertising to help your business have its day in the sun
     content: >-
       _Specialising in:_<br/>
       Eco • Active • Coastal • Travel

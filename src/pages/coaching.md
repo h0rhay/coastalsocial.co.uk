@@ -79,8 +79,8 @@ sections:
 
           One-off fee
 
-          * Get advice
-          * Fix that annoying issue
+          * Get advice / Make a plan
+          * Fix annoying issues
           * Top tips
         content_align: left
         actions:
