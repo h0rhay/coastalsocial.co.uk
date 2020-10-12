@@ -7,7 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Facebook ad campaign management
+      - title: Facebook Ad campaign management
         subtitle: 'Expert management to help your business grow'
         content: >-
           With full management I will run your ad campaigns for you.  Monthly reports and weekly catch up calls will give you the assurance and insights you need, whilst I make adjustments & reassess our objectives as the data comes in.
@@ -53,14 +53,14 @@ sections:
         media_width: fifty
         bg_color: secondary
         isFW: true
-      - title: Facebook ad account audit
+      - title: Facebook Ad account review
         subtitle: 'Have you boosted a post, or run an ad campaign without seeing much benefit for your business?'
         content: >-
           There are many reasons for this, from innacurate audience targeting to poor quality creative.
           
           #### How can I help?
 
-          I will audit your previous advertising campaigns and deliver a 2 page recommendations document to advise on beneficial adjustments you could make to optimise your ads.
+          I will review your previous advertising campaigns and work with you to advise on beneficial adjustments you could make to optimise your ads.
 
         image: images/audit.jpg
         media_position: right
@@ -92,12 +92,12 @@ sections:
           * Have a plan to build from
         content_align: left
         actions:
-          - label: Help me Set things up
+          - label: Help me set things up
             url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - FB setup
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Full FB Ads Management
+      - title: Management
         subtitle:
         title_align: left
         content: |-
@@ -115,30 +115,30 @@ sections:
           * Feedback & reporting
         content_align: left
         actions:
-          - label: Book a management call
+          - label: Help me manage my FB ads
             url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Full Management
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Strategy
+      - title: Review
         subtitle: 
         title_align: left
         content: |-
           ---
 
-          ### £895
+          ### £395
 
           One-off fee
 
-          * The whys: What social media can do for your business
-          * Establish personas & targets
-          * Creating content.. how to do it.. what to post
-          * Scheduling, monitoring & troubleshooting
-          * Measuring Success
+          * Tried Boosting a post? Or run a FB Ad without success?
+          * Review your social channels & campaigns
+          * Identify issues, problems or improvements
+          * Helpful advice & recommendations
+          * Plan of action to help you move forwards
         content_align: left
         actions:
-          - label: Book a strategy call
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Strategy
+          - label: Book your account review
+            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Review
             style: primary
         actions_align: left
         actions_width: full-width
