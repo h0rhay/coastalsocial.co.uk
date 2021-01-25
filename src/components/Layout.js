@@ -37,6 +37,7 @@ export default class Body extends React.Component {
                     <style>
                         @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
                     </style>
+                    <meta name="facebook-domain-verification" content="zfebgacba657ywybkogznwp88e9joa" />
                     <body className={'layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout', null) + ' style-' + _.get(this.props, 'pageContext.site.siteMetadata.style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' mode-' + _.get(this.props, 'pageContext.site.siteMetadata.mode', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                     {/* <script async
                         src="//book.timify.com/widget/widget.min.js"
