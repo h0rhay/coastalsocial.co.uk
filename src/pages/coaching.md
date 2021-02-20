@@ -95,7 +95,7 @@ sections:
         content: |-
           ---
 
-          ### £395
+          ### £247
 
           * A deep dive into Facebook marketing
           * Either for beginners or those that already have experience with ads
