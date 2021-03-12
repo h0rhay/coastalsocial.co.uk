@@ -8,60 +8,67 @@ sections:
   - type: features_section
     features:
       - title: Facebook Ad campaign management
-        subtitle: 'Expert management to help your business grow'
+        subtitle: Expert management to help your business grow
         content: >-
-          With full management I will run your ad campaigns for you.  Monthly reports and weekly catch up calls will give you the assurance and insights you need, whilst I make adjustments & reassess our objectives as the data comes in.
+          With full management I will run your ad campaigns for you.  Monthly
+          reports and weekly catch up calls will give you the assurance and
+          insights you need, whilst I make adjustments & reassess our objectives
+          as the data comes in.
 
           #### Whats included?
 
-          - Campaign & Advert creation including copywriting (you supply images/videos)
-          
-          - Daily management - including changes to creatives, audiences & alteration of objectives  
-          
+          - Campaign & Advert creation including copywriting (you supply
+          images/videos)
+
+          - Daily management - including changes to creatives, audiences &
+          alteration of objectives  
+
           - Weekly 15 minute check in call
-          
-          - Monthly or End of campaign written report with recommendations for ongoing campaigns
 
-
+          - Monthly or End of campaign written report with recommendations for
+          ongoing campaigns
         image: images/hastings-management.jpg
         media_position: right
         media_width: fifty
       - title: Facebook Ad account setup
-        subtitle: 'Setting up FB ads manager and creating campaigns can be daunting'
+        subtitle: Setting up FB ads manager and creating campaigns can be daunting
         content: >-
 
           #### Let me help you get started
 
           - 1hr Zoom Get Started Strategy Meeting 
-          
-          - Pixel Set Up/Health Check (The piece of code which will track all website visitors when also logged into Facebook) 
-          
+
+          - Pixel Set Up/Health Check (The piece of code which will track all
+          website visitors when also logged into Facebook) 
+
           - Full Audit of advertising campaigns to date 
-          
+
           - Audience research 
-          
+
           - Audience building
-          
+
           - Competitor research
-          
+
           - Campaign Strategy
 
           - Campaign & content creation & set up 
-
         image: images/steps.jpg
         media_position: left
         media_width: fifty
         bg_color: secondary
         isFW: true
       - title: Facebook Ad account review
-        subtitle: 'Have you boosted a post, or run an ad campaign without seeing much benefit for your business?'
+        subtitle: >-
+          Have you boosted a post, or run an ad campaign without seeing much
+          benefit for your business?
         content: >-
-          There are many reasons for this, from innacurate audience targeting to poor quality creative.
-          
+          There are many reasons for this, from innacurate audience targeting to
+          poor quality creative.
+
           #### How can I help?
 
-          I will review your previous advertising campaigns and work with you to advise on beneficial adjustments you could make to optimise your ads.
-
+          I will review your previous advertising campaigns and work with you to
+          advise on beneficial adjustments you could make to optimise your ads.
         image: images/audit.jpg
         media_position: right
         media_width: fifty
@@ -75,7 +82,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Setup
-        subtitle:
+        subtitle: null
         title_align: left
         content: |-
           ---
@@ -93,35 +100,37 @@ sections:
         content_align: left
         actions:
           - label: Help me set things up
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - FB setup
+            url: 'mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - FB setup'
             style: primary
         actions_align: left
         actions_width: full-width
       - title: Management
-        subtitle:
+        subtitle: null
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### £750
+          ### £995
 
-          _From_ £750 per month
+          *From* £995 per month
 
-          * Price excluding ad spend. 
-          * I recommend __minimum__ spend of £20 per day to test 2 audiences.
-          * Campaign set up
-          * Content creation
-          * Management & monitoring of campaign health
-          * Feedback & reporting
+          *   Price excluding ad spend.
+          *   I recommend **minimum** spend of £20 per day to test 2 audiences.
+          *   Campaign set up
+          *   Content creation
+          *   Management & optimisation of campaign
+          *   Feedback & reporting
         content_align: left
         actions:
           - label: Help me manage my FB ads
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Full Management
+            url: >-
+              mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Full
+              Management
             style: primary
         actions_align: left
         actions_width: full-width
       - title: Review
-        subtitle: 
+        subtitle: null
         title_align: left
         content: |-
           ---
@@ -138,7 +147,7 @@ sections:
         content_align: left
         actions:
           - label: Book your account review
-            url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Review
+            url: 'mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry - Review'
             style: primary
         actions_align: left
         actions_width: full-width
@@ -153,13 +162,19 @@ sections:
     classToAdd: dark-text
   - type: grid_section
     title: Facebook Ads Review
-    subtitle: 
+    subtitle: null
     grid_items:
       - content: >-
-          
+
           # “
-          
-          Rosie is one of the most professional and dedicated people I’ve had the pleasure of working with. Her knowledge of Facebook advertising has made a distinct difference to Marsha By The Sea. Rosie not only immediately grasped the nature of my business but saw each campaign through with immaculate detail and excellent communication. Beyond that, Rosie is a quality person - intelligent, diligent and supportive.
+
+          Rosie is one of the most professional and dedicated people I’ve had
+          the pleasure of working with. Her knowledge of Facebook advertising
+          has made a distinct difference to Marsha By The Sea. Rosie not only
+          immediately grasped the nature of my business but saw each campaign
+          through with immaculate detail and excellent communication. Beyond
+          that, Rosie is a quality person - intelligent, diligent and
+          supportive.
 
 
           **Fiona Harkin,** Marsha By The Sea | *Facebook & Instagram Ad client*
@@ -174,10 +189,12 @@ sections:
     classToAdd: fwReview
   - type: cta_section
     title: To get started <br/>making the most of Facebook Ads
-    content: Book a free consultation call, where I can give you tips & advice so we can make a plan thats right for you.
+    content: >-
+      Book a free consultation call, where I can give you tips & advice so we
+      can make a plan thats right for you.
     actions:
       - label: Send us an email
-        url: mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry
+        url: 'mailto:rosie@coastalsocial.co.uk?subject=New CS enquiry'
         style: primary
     align: center
     padding_top: medium
