@@ -118,7 +118,7 @@ sections:
           *   I recommend **minimum** spend of £20 per day to test 2 audiences.
           *   Campaign set up
           *   Content creation
-          *   Management & monitoring of campaign health
+          *   Management & optimisation of campaign
           *   Feedback & reporting
         content_align: left
         actions:
